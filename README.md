@@ -102,4 +102,7 @@ ai-career-path-recommendation/
 
  2nd Year IT Student | SRM Madurai College for Engineering and Technology
 
+ https://www.linkedin.com/in/rakcha-h-792b90394
+
+
 This project was completed as part of a Machine Learning Internship at Jyesta Corporate Entity (Jan–Mar 2026)

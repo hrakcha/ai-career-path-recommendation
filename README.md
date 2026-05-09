@@ -68,7 +68,7 @@ Recall; 0.95
 
 F1-Score: 0.95
 
-The model correctly classified 91 out of 100 resumes into the right job category
+The model correctly classified 95 out of 100 resumes into the right job category
 
  Key Learnings
 

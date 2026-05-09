@@ -60,13 +60,13 @@ Suggests improvement areas for the user
 
 Results:
 
-Accuracy: 91%
+Accuracy: 95%
 
-Precision: 0.91
+Precision: 0.95
 
-Recall; 0.91
+Recall; 0.95
 
-F1-Score: 0.91
+F1-Score: 0.95
 
 The model correctly classified 91 out of 100 resumes into the right job category
 
@@ -91,8 +91,6 @@ ai-career-path-recommendation/
 │
 
 ├── ai_career_path_recommendation.py
-
-├── resume_dataset.csv
 
 ├── README.md  
 
